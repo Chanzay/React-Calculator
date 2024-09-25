@@ -5,7 +5,7 @@ export default function App() {
 
 
   return (
-    <div className='w-1/4 h-60 p-2'>
+    <div className='w-auto h-auto p-2 flex justify-center'>
     <Buttons/>
     </div>
   )
